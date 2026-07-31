@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm g</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://tenor.com/search/engineer-gifs" alt="gg" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/userupload/29035570/file/original-2c9ccdb2582ed5fea51229994d3e460b.gif" alt="gg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gg" alt="gg" /></a> </p>
 
