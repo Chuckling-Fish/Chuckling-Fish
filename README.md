@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **a**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chuckling-Fish&layout=pie)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuckling-Fish&layout=pie&theme=tokyonight&hide_border=true" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
